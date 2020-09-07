@@ -26,5 +26,6 @@
 
 • Generate a patch file of the changes you made.
 
+## Certificate of completion
 
-![Certificate of completion](https://github.com/Uday47/JPMorgan-Chase-Software-Engineering-Virtual-Experience-/blob/master/JPMC-1.jpg)
+![alt text](https://github.com/Uday47/JPMorgan-Chase-Software-Engineering-Virtual-Experience-/blob/master/JPMC-1.jpg)
